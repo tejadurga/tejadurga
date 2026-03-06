@@ -23,7 +23,7 @@ I am a B.Tech (Computer Science & Engineering) student with a strong technical f
 ## Skills
 
 **Languages & Tools**
-- C, C++, Java, Python  
+- C,Python  
 - HTML, CSS, JavaScript (basic)  
 - MySQL, DBMS fundamentals  
 - AutoCAD (familiar)  
